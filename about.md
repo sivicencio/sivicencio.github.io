@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### What I do
 
-### More Information
+I'm a Software Engineer focused on Web Development, especially Rails and JavaScript.
 
-A place to include any other types of information that you'd like to include about yourself.
+### Where I work
+
+Currently I'm working at <a href="http://twitter.com/acid_team">Acid Labs</a>, a Santiago-based software company.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+{% if site.footer-links.twitter %}
+  Reach me by <a href="http://twitter.com/{{ site.footer-links.twitter }}">Twitter</a>.
+{% endif %}
