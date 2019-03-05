@@ -6,11 +6,11 @@ permalink: /about/
 
 ### What I do
 
-I'm a Software Engineer currently focused on Web Development, especially JavaScript and Rails.
+I'm a Software Engineer currently focused on Full-Stack Development, in particular using JavaScript and Rails.
 
 ### What I like
 
-I'm a Computer Science enthusiast, an Astronomy lover, and I also consider myself somewhat melomaniac.
+Besides Computer Science and everything related to Software, I'm a Science enthusiast, with special interest in Astronomy, and I also love music.
 
 ### Where I work
 
